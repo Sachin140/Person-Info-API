@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: name-info-service-api
+
+server:
+  port: 8080
+
+random-info-api:
+  ageApiBaseUrl: https://api.agify.io
+  genderApiBaseUrl: https://api.genderize.io
+  nationalityApiBaseUrl: https://api.nationalize.io
+
