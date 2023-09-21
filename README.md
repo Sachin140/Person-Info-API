@@ -22,8 +22,8 @@ To run the API, follow these steps:
 1. Clone the repository
 
    ```shell
-   git clone <repository-url>
-   cd spring-boot-person-info-api
+   git clone https://github.com/Sachin140/Person-Info-API.git
+   cd Person-Info-API
 
 2. Build the project using Maven:
    - mvn clean install
